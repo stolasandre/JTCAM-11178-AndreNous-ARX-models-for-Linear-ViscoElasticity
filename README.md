@@ -1,4 +1,4 @@
-# JTCAM-11178-AndreNous-ARXmodelsforLinearViscoElasticity
+# JTCAM-10304-AndreNous-ARXmodelsforLinearViscoElasticity
 Code source for computations presented in JTCAM11178 paper
 These matlab scripts have been written under version R2020b (9.9.0.1467703).
 The script entitled ExecutablePaper_JTCAM#11178_AndreNous.mlx is a livescript
