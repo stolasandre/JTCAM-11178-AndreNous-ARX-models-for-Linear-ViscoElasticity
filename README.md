@@ -5,7 +5,7 @@ The script entitled ExecutablePaper_JTCAM#11178_AndreNous.mlx is a livescript
 (equivalent of Jupyter Notebook in Python). When launched, it produces
 an executive and executable version of the published paper in Journal of Theoretical Computational
 and Applied Mechanics (2023). 
-It is a companion version of this article and offers the reader
+It is a companion version of this article. It offers the reader
 a comprehensive access to the ideas there discussed through the code lines available
 to reproduce (some of) the computations and plotted figures on which it relies.
 The scripts invlap.m and mlf.m respectively performing numerical matlab inversion through De Hoog's algorithm
